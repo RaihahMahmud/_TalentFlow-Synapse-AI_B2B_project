@@ -1,2 +1,5 @@
 # 327_TalentFlow-Synapse-AI
 An Enterprise-Grade, Multimodal AI Talent Synchronization Hub Orchestrating Automated Ingestion, Vector-Based Candidate Extraction, and Contextual Chat Screenings.
+
+proposal slides: 
+https://gamma.app/docs/TalentFlow-Synapse-AI-kda348lothgh9p8?fbclid=IwY2xjawS9pTJleHRuA2FlbQIxMABicmlkETE1cngzck91aTNBQnVSam51c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmMqKgQktMuynA1yRXO5VOPGSddqAFtgCh5QUl05NO2uAfF3vDgTiKxoDLWu_aem_bmTMsmKJu8CiC4n6bs2kmw&mode=doc
